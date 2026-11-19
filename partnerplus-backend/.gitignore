@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+.vscode/
+.DS_Store
+*.log
+data/real_events.csv
+
+credentials.json
+token.json
+ngrok.exe
+.pytest_cache/
